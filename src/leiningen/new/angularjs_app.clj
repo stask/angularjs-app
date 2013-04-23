@@ -20,5 +20,5 @@
              ["resources/public/js/app.js" (render "app.js" data)]
              "resources/public/img"
              ["resources/public/css/bootstrap-combined.min.css"
-              (render "boostrap-combined.min.css")]
+              (render "bootstrap-combined.min.css")]
              ["resources/public/index.html" (render "index.html" data)])))
